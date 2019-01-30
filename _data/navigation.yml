@@ -1,0 +1,36 @@
+main:
+  - title: Theory
+    url: /theory/intro
+  - title: Use Cases
+    url: /usecases/list
+  - title: Demos
+    url: /demos/
+
+theory:
+  - title: Getting Started
+    children:
+      - title: Introduction
+        url: /theory/intro/
+      - title: Problem Statement
+        url: /theory/problem/
+
+  - title: Design and Technology
+    children:
+      - title: Base Use Case
+        url: /theory/basecase/
+      - title: Error Scenarios
+        url: /theory/errors/
+
+  - title: Software Patterns
+    children:
+      - title: "THIS"
+        url: /theory/this/
+      - title: "THAT"
+        url: /theory/that/
+
+usecases:
+  - title: Use Cases
+    children:
+      - title: Foo 
+        url: /usecases/foo
+
