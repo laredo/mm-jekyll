@@ -10,23 +10,23 @@ theory:
   - title: Getting Started
     children:
       - title: Introduction
-        url: /theory/intro/
+        url: /theory/intro
       - title: Problem Statement
         url: /theory/problem/
 
   - title: Design and Technology
     children:
       - title: Base Use Case
-        url: /theory/basecase/
+        url: /theory/basecase
       - title: Error Scenarios
-        url: /theory/errors/
+        url: /theory/errors
 
   - title: Software Patterns
     children:
       - title: "THIS"
-        url: /theory/this/
+        url: /theory/this
       - title: "THAT"
-        url: /theory/that/
+        url: /theory/that
 
 usecases:
   - title: Use Cases
