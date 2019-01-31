@@ -12,7 +12,7 @@ theory:
       - title: Introduction
         url: /theory/intro
       - title: Problem Statement
-        url: /theory/problem/
+        url: /theory/problem
 
   - title: Design and Technology
     children:
