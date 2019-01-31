@@ -30,8 +30,8 @@ email: laredoj@us.ibm.com
 twitter_username: 
 github_username:  
 
-theme: minimal-mistakes-jekyll
-# remote_theme           : "mmistakes/minimal-mistakes"
+# theme: minimal-mistakes-jekyll
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "default" , "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
@@ -56,6 +56,7 @@ kramdown:
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # include: ['_pages']
 
